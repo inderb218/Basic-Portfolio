@@ -1,0 +1,44 @@
+
+
+header {
+    width: 100%;
+    }
+    h1 {
+    float: left;
+    }
+    .topnav-right {
+        float: right;
+      }
+      li {
+        border-right: 10px solid #fdf8f8;
+    }
+    ul {
+        border: 30px solid #ffffff;
+        background-color: #ffffff;
+    }
+    
+    li a {
+        color: #666;
+    }
+    body {
+        background-color: #b2b2b3;
+    }
+    h1 {
+        color: #4aaaa5;
+    }
+    p {
+        color: rgb(117, 112, 112);
+    }
+    .boxed {
+        border: 1px black;
+    }
+    Input [type-text], select, textarea {
+            width: 100%; 
+            padding: 12px;  
+            border: 1px solid #ccc; 
+            border-radius: 4px; 
+            box-sizing: border-box; 
+            margin-top: 6px; 
+            margin-bottom: 16px; 
+            resize: vertical; 
+        }
